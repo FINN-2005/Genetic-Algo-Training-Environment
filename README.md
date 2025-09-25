@@ -12,6 +12,9 @@ Collisions, Physics and simulation controll(pause, speedup, etc).
 
 ## Requirements
 Install my [pygame_template](https://github.com/FINN-2005/pygame_template.git)
+```bash
+pip install git+https://github.com/FINN-2005/pygame_tempale.git
+```
 
 ## Run
 ```bash
